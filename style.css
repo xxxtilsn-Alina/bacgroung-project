@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.bg-box {
+  height: 100vh;
+  background-color: green;
+  background-image: url(./img/lamp-png-34914.png),
+    url(./img/green-png-44873.png), url(./img/hedgehod.webp),
+    url(./img/donut.webp), url(./img/trava.and.home-img.jpg);
+  background-size: 77px, 20%, 55px, 55px, 45%;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y, no-repeat;
+  background-position: top, bottom, left, right, center;
+}
